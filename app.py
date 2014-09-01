@@ -132,7 +132,7 @@ def send_mail(results):
             {'email': 'keithamoss@gmail.com',
              'name': 'Keith Moss',
              'type': 'to'},
-            {'email': 'flyingblogspot@gmail.com',
+            {'email': 'helen.ensikat@gmail.com',
              'name': 'Helen Ensikat',
              'type': 'to'}
          ],
